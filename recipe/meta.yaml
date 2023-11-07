@@ -26,6 +26,7 @@ requirements:
     - numpy
     - opencv
     - openpyxl
+    - pandas  # Imported but not in requirements
     - python >=3.8
     - qtpy
     - scikit-image
