@@ -1,11 +1,11 @@
-About napari-roi-registration
-=============================
+About napari-roi-registration-feedstock
+=======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-roi-registration-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/GiorgiaTortora/napari-roi-registration
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-roi-registration-feedstock/blob/main/LICENSE.txt)
 
 Summary: A plugin to perform roi registration.
 
